@@ -1,0 +1,13 @@
+# Emojis para os botões do painel
+loja = "🛒"
+ticket = "🎫"
+boas_vindas = "👋"
+automacoes = "⚙️"
+customizar = "🎨"
+zen_cloud = "☁️"
+extrato = "📊"
+giveaway = "🎁"
+configuracoes = "🔧"
+zen_protect = "🛡️"
+carregando = "🔄"
+painel = "📋"

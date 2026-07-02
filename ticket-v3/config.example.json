@@ -1,0 +1,22 @@
+{
+  "client": {
+    "token": "SEU_VALOR_AQUI"
+  },
+  "embeds_color": {
+    "embed_primary": "#02012e",
+    "embed_invisible": "#02012e",
+    "embed_success": "#02012e",
+    "embed_error": "#02012e"
+  },
+  "ticket": {
+    "category_id": "categoria que sera aberto",
+    "category_call_id": "categoria que a call sera aberta",
+    "support_role": "id do cargo que terá acesso(todos precisara ter o cargo)",
+    "channel_logs": "será onde as logs do chat sera enviado (transcript de todo o chat)"
+  },
+  "sales": {
+    "pix": "sua chave pix",
+    "qrcode": "qr code do pix",
+    "name": "nome do destinario"
+  }
+}

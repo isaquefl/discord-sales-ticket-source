@@ -1,0 +1,15 @@
+{
+  "botID": "",
+  "botToken": "SEU_VALOR_AQUI",
+  "apiURL": "https://api..com.br",
+  "version": "0.0.3",
+  "syncEmojis": true,
+  "saveConfig": false,
+  "startOnBackup": false,
+  "bot": {
+    "token": "SEU_VALOR_AQUI",
+    "owner": "",
+    "id": "",
+    "server": ""
+  }
+}

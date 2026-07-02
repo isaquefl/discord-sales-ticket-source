@@ -1,0 +1,6 @@
+{
+    "api": "http://localhost:22222",
+    "cloud": "http://localhost:8080",
+    "transcripts": "http://localhost:22222",
+    "ia": "http://localhost:22222"
+}
